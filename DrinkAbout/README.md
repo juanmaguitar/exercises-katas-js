@@ -1,4 +1,4 @@
-# Kata: Pokemon Battle
+# Kata: Drink About
 
 ### Problem Description
 
